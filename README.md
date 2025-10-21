@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Rushabh Singwi
 
 # 💫 About Me:
-I’m a software engineer with experience in backend development, data analysis, and automation. I’ve independently built and deployed production-ready backend features at startups, including one with over 100k users. I’ve worked at Cloaked, a New York–based privacy startup, where I led a team to build a customer-facing tool that was integrated into their product, and at Breath AI, a health tech startup in Pune, where I developed software to analyze health data and detect anomalies in PPG signals. I enjoy solving complex problems, collaborating across teams, and building scalable, impactful products.
+I’m a software engineer with experience in backend development, data analysis, and automation. I’ve independently built and deployed production-ready backend features at startups, including one with over 100k users. I’ve worked at Cloaked, a New York–based privacy startup, where I built a customer-facing tool that was integrated into their product, and at Breath AI, a health tech startup in Pune, where I developed software to analyze health data and detect anomalies in PPG signals. I enjoy solving complex problems, collaborating across teams, and building scalable, impactful products.
 
 
 ## 🌐 Socials:
