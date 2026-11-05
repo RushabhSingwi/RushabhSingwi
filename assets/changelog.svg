@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="336" viewBox="0 0 860 336">
+<style>
+.h{font-family:Georgia, 'Iowan Old Style', 'Times New Roman', 'DejaVu Serif', serif;font-size:26px;font-style:italic;fill:#1f1d1a}
+.d{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;fill:#8a8378}
+.s{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, 'Liberation Sans', sans-serif;font-size:16px;fill:#1f1d1a}
+.now{font-family:Georgia, 'Iowan Old Style', 'Times New Roman', 'DejaVu Serif', serif;font-size:20px;font-weight:700;fill:#d6452f}
+</style>
+<rect x="0.5" y="0.5" width="859" height="335" rx="14" fill="#f5efe4" stroke="#e4dccd"/>
+<text x="48" y="50" class="h">changelog</text>
+<path d="M150 87 V287" stroke="#1f1d1a" stroke-width="1.5" stroke-dasharray="2 5" stroke-linecap="round"/>
+<text x="118" y="92" class="d" text-anchor="end">2026.06</text><circle cx="150" cy="87" r="9" fill="#d6452f"/><circle cx="150" cy="87" r="15" fill="none" stroke="#d6452f" stroke-opacity=".35"/><text x="180" y="92" class="s now">started Ravix</text><text x="118" y="142" class="d" text-anchor="end">2026.01</text><circle cx="150" cy="137" r="6" fill="#f5efe4" stroke="#1f1d1a" stroke-width="2"/><text x="180" y="142" class="s">Anaira AI: built the backend from zero, then took it to production</text><text x="118" y="192" class="d" text-anchor="end">2025.01</text><circle cx="150" cy="187" r="6" fill="#f5efe4" stroke="#1f1d1a" stroke-width="2"/><text x="180" y="192" class="s">BreathAI: read heartbeat (PPG) signals and flagged the strange ones</text><text x="118" y="242" class="d" text-anchor="end">2024.05</text><circle cx="150" cy="237" r="6" fill="#f5efe4" stroke="#1f1d1a" stroke-width="2"/><text x="180" y="242" class="s">Cloaked: account recovery used to take a day. got it under 2 minutes</text><text x="118" y="292" class="d" text-anchor="end">2022.08</text><circle cx="150" cy="287" r="6" fill="#f5efe4" stroke="#1f1d1a" stroke-width="2"/><text x="180" y="292" class="s">first commit to this README. said I was into robotics</text>
+</svg>
