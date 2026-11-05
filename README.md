@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Rushabh+Singwi;Software+Engineer+%40+Anaira+AI;I+turn+POCs+into+production+systems;Python+%E2%80%A2+Django+%E2%80%A2+FastAPI+%E2%80%A2+RAG" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Rushabh+Singwi;Founder+%40+Ravix;Close+the+lid.+Agents+keep+shipping.;Python+%E2%80%A2+Django+%E2%80%A2+FastAPI+%E2%80%A2+RAG" alt="Typing SVG" />
 
+[![Ravix](https://img.shields.io/badge/Ravix-ravix.sh-111111?style=for-the-badge)](https://ravix.sh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushabh-singwi-4917b0225/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushabhsingwi@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=RushabhSingwi&style=for-the-badge&color=36BCF7&label=Profile+views)
@@ -14,17 +15,34 @@
 
 ```python
 class Rushabh:
-    role       = "Software Engineer"
-    company    = "Anaira AI"
+    role       = "Founder"
+    company    = "Ravix (backed by South Park Commons)"
     education  = "B.Tech, Computer Science @ RCOEM, Nagpur (2025)"
 
-    loves      = ["backend architecture", "async pipelines", "ML systems", "RAG"]
+    loves      = ["AI coding agents", "backend architecture", "async pipelines", "RAG"]
     shipped_to = "100K+ users"
     superpower = "taking a scrappy POC and making it production-grade"
 
     def currently(self):
-        return "building ML-powered video processing pipelines 🎥"
+        return "building Ravix: multiplayer cloud workspaces for coding agents ☁️"
 ```
+
+---
+
+## 🛸 Now Building: [Ravix](https://ravix.sh)
+
+> **Close the lid. Agents keep shipping.**
+
+Ravix is a **multiplayer coding workspace** where your coding agent runs on a cloud machine instead of your laptop. Your agent, the running app, and its services share one cloud environment, so the work keeps going after you walk away.
+
+- ☁️ **Agents keep working:** close your laptop and they keep writing, editing, and moving the work forward
+- 🔗 **Send the live version instead of a pull request:** teammates open a preview link with the page, API, and database already running
+- 💬 **Prompt together:** teammates prompt your agent in the same thread, where the context already lives
+- 🤖 **Bring your own agent:** works with Claude Code, Codex, and Cursor
+
+Backed by **South Park Commons**.
+
+<a href="https://ravix.sh"><img src="https://img.shields.io/badge/Get_early_access-ravix.sh-36BCF7?style=for-the-badge" alt="Get early access" /></a>
 
 ---
 
@@ -42,7 +60,10 @@ class Rushabh:
 
 ## 🚀 Where I've Been
 
-### 🧠 Software Engineer · [Anaira AI](https://www.anaira.ai/) &nbsp;`Jan 2026 – Present`
+### 🛸 Founder · [Ravix](https://ravix.sh) &nbsp;`Jun 2026 – Present`
+- 🚀 Building multiplayer cloud workspaces for coding agents, backed by **South Park Commons**
+
+### 🧠 Software Engineer · [Anaira AI](https://www.anaira.ai/) &nbsp;`Jan 2026 – Jun 2026`
 - 🏗️ Built the backend **from scratch** for a POC — APIs, ML pipeline integration, customer demos
 - ⚙️ Orchestrated ML tasks with async workflows on **Redis + Celery**
 - 📈 Migrated the POC to a production-grade system on **AWS SQS + PostgreSQL**
@@ -141,6 +162,6 @@ Log it, store it, analyze it — no more messy notes-app tracking.
 
 ### 🤝 Let's build something together
 
-I'm always up for chatting about **backend systems, ML pipelines, or RAG** — [drop me a line](mailto:rushabhsingwi@gmail.com)!
+I'm always up for chatting about **coding agents, backend systems, or RAG**, or about what we're building at [Ravix](https://ravix.sh) — [drop me a line](mailto:rushabhsingwi@gmail.com)!
 
 </div>
